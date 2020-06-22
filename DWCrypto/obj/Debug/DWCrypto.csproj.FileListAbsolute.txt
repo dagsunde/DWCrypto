@@ -1,0 +1,6 @@
+C:\Users\dasu\OneDrive - Powel AS\Libs\DWCrypto\DWCrypto\bin\Debug\DWCrypto.dll
+C:\Users\dasu\OneDrive - Powel AS\Libs\DWCrypto\DWCrypto\bin\Debug\DWCrypto.pdb
+C:\Users\dasu\OneDrive - Powel AS\Libs\DWCrypto\DWCrypto\obj\Debug\DWCrypto.csprojAssemblyReference.cache
+C:\Users\dasu\OneDrive - Powel AS\Libs\DWCrypto\DWCrypto\obj\Debug\DWCrypto.csproj.CoreCompileInputs.cache
+C:\Users\dasu\OneDrive - Powel AS\Libs\DWCrypto\DWCrypto\obj\Debug\DWCrypto.dll
+C:\Users\dasu\OneDrive - Powel AS\Libs\DWCrypto\DWCrypto\obj\Debug\DWCrypto.pdb
